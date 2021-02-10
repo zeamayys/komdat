@@ -1,4 +1,4 @@
-# komdat-12
+# komdat-13
 Repository Github Kelompok 12 KOM 312-Komunikasi Data dan Jaringan
 Anggota kelompok 12:
 - Abdan Syakuro (G64180047)
